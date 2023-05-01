@@ -8,3 +8,5 @@ You will also find citation to the original paper and code, dependencies and dat
 A table of the results is stored on this repo called 'ResultsTable.xlsx'.
 
 You can go through our final findings more in depth in this file 'CS598DL4H_Final_Report.pdf'.
+
+Link to Final Presentation: https://youtu.be/oMtv60hFCew
